@@ -1,2 +1,4 @@
-# 1stheroku
-My node.js app that im going to deploy on heroku.
+heroku-node
+===========
+
+Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
